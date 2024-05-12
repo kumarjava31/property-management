@@ -1,0 +1,5 @@
+HELP.md
+**/target/
+**/.idea/
+**/node_modules
+**/.DS_store
