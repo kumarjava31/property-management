@@ -3,6 +3,7 @@ HELP.md
 **/.idea/
 **/node_modules
 **/.DS_store
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
